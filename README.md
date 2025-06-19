@@ -94,5 +94,16 @@ Este projeto visa proporcionar uma visão holística do dia a dia de um QA, escl
 Este plano serve tanto para o aprendizado quanto para a aplicação em cenários reais, fortalecendo a cultura de qualidade no desenvolvimento de software.
 
 
+🔁 **Resumo da Cadeia QA**
+
+Levantamento → Especificação → Planejamento → Criação de Testes → Execução Manual → Registro de Bugs → Reuniões Ágeis e melhoria contínua.
+
+
+
+
+
+
+
+
 
  
