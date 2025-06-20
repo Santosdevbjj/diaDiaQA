@@ -1,4 +1,4 @@
-## Projeto: O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais.
+## Projeto: O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais. 
 
 ![Screenshot_20250619-155415](https://github.com/user-attachments/assets/a826781a-106a-4400-b248-30c2e36f832b)
 
