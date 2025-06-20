@@ -21,7 +21,7 @@ Projeto desenvolvido durante o **Bootcamp WEX - End to End Engineering**, com fo
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-- 🔹 **SwagLabs**: [https://www.saucedemo.com/v1/](https://www.saucedemo.com/v1/)
+- 🔹 **SwagLabs Shopping**: [https://www.saucedemo.com/v1/](https://www.saucedemo.com/v1/)
 - 🔹 **JIRA**: Gerenciamento ágil de tarefas e testes
 - 🔹 **Confluence**: Documentação colaborativa
 - 🔹 **Zephyr Scale**: Gerenciamento de testes manuais
