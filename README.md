@@ -33,8 +33,8 @@ Projeto desenvolvido durante o **Bootcamp WEX - End to End Engineering**, com fo
 📁 docs/     
  ┣ 📄 Documentacao_QA_SwagLabs.pdf         
  ┣ 📄 Casos_Teste_QA_SwagLabs.pdf          
- ┣ 🖼️ Fluxograma_Login_QA.png   
- ┗ 🧠 Login_MindMap.xmind
+ ┣ 🖼️ FlluxogramaLogin_QA.png   
+ ┗ 🧠 Login_MindMap.png
 
 ## 🧾 User Stories Criadas
 
