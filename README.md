@@ -28,6 +28,7 @@ Projeto desenvolvido durante o **Bootcamp WEX - End to End Engineering**, com fo
 - 🔹 XMind / Miro: Mind-map
 
 
+
 ## 📂 Estrutura do Projeto
 
 **📁 docs/**  
@@ -37,6 +38,7 @@ Projeto desenvolvido durante o **Bootcamp WEX - End to End Engineering**, com fo
 ┣ 📄 `Plano_Fluxo_Ciclo_Vida_Bug.pdf`: Fluxo de trabalho - Ciclo de vida do Bug.  
 ┣ 🖼️ `FlluxogramaLogin_QA.png`: Fluxograma fluxo de login.  
 ┗ 🧠 `Login_MindMap.png`: Mind-Map Login 
+
 
 
 ## 🧾 User Stories Criadas
