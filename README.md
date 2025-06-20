@@ -3,7 +3,7 @@
 ![Screenshot_20250619-155415](https://github.com/user-attachments/assets/a826781a-106a-4400-b248-30c2e36f832b)
 
   
-**Bootcamp, WEX - End to End Engineering.**
+**Bootcamp, WEX - End to End Engineering. Ministrado pela DIO.**
 
 
 
