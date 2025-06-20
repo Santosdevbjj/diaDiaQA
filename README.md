@@ -26,6 +26,7 @@ Projeto desenvolvido durante o **Bootcamp WEX - End to End Engineering**, com fo
 - 🔹 Zephyr Scale: Gerenciamento de testes manuais
 - 🔹 PDF (FPDF Python): Geração de relatórios
 - 🔹 XMind / Miro: Mind-map
+- 
 
 
 
@@ -37,7 +38,8 @@ Projeto desenvolvido durante o **Bootcamp WEX - End to End Engineering**, com fo
 ┣ 📄 `CasosTesteBDD_QA_SwagLabs.pdf`: Casos de teste formato BDD.  
 ┣ 📄 `Plano_Fluxo_Ciclo_Vida_Bug.pdf`: Fluxo de trabalho - Ciclo de vida do Bug.  
 ┣ 🖼️ `FlluxogramaLogin_QA.png`: Fluxograma fluxo de login.  
-┗ 🧠 `Login_MindMap.png`: Mind-Map Login 
+┗ 🧠 `Login_MindMap.png`: Mind-Map Login
+
 
 
 
