@@ -6,7 +6,6 @@
 **Bootcamp, WEX - End to End Engineering. Ministrado pela DIO.**
 
 
-
 # 🧪 O Dia a Dia de um QA - Testes Manuais Funcionais
 
 Projeto desenvolvido durante o **Bootcamp WEX - End to End Engineering**, com foco na prática de **testes manuais funcionais** em um ambiente ágil utilizando **Scrum**, **JIRA** e **Confluence**.
@@ -28,13 +27,17 @@ Projeto desenvolvido durante o **Bootcamp WEX - End to End Engineering**, com fo
 - 🔹 PDF (FPDF Python): Geração de relatórios
 - 🔹 XMind / Miro: Mind-map
 
+
 ## 📂 Estrutura do Projeto
 
-📁 docs/     
- ┣ 📄 Documentacao_QA_SwagLabs.pdf         
- ┣ 📄 Casos_Teste_QA_SwagLabs.pdf          
- ┣ 🖼️ FlluxogramaLogin_QA.png   
- ┗ 🧠 Login_MindMap.png
+**📁 docs/**  
+┣ 📄 `Documentacao_QA_SwagLabs.pdf`: O dia a dia de um QA - Fluxo de login - User Stories.  
+┣ 📄 `Casos_Teste_QA_SwagLabs.pdf`: O dia a dia de um QA - Técnica Step-by-step.  
+┣ 📄 `CasosTesteBDD_QA_SwagLabs.pdf`: Casos de teste formato BDD.  
+┣ 📄 `Plano_Fluxo_Ciclo_Vida_Bug.pdf`: Fluxo de trabalho - Ciclo de vida do Bug.  
+┣ 🖼️ `FlluxogramaLogin_QA.png`: Fluxograma fluxo de login.  
+┗ 🧠 `Login_MindMap.png`: Mind-Map Login 
+
 
 ## 🧾 User Stories Criadas
 
